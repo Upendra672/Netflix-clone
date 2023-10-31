@@ -1,6 +1,7 @@
 const Banner = () => {
     return(
       <div className="banner">
+      <h1>Hello dosto</h1>
         <div className="banner__contents">
           <h1 className="banner__title">Ginny &amp; Georgia</h1>
           <div className="banner__buttons">
