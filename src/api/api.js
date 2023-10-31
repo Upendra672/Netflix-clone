@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const URL = "https://api.themoviedb.org/3"
-// https://api.themoviedb.org/3/movie/550?api_key=3e5f3d4a2437dcb364eae51c6b8f125f
+
 const API_KEY = "3e5f3d4a2437dcb364eae51c6b8f125f"
 
 const endpoints = {
